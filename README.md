@@ -23,6 +23,9 @@ Highlight the main features of your project.
 - Class Two - How to use the params direclty in terminal commands and print it
 - Class Three - How to declare a function and atrribute a value to a variable
 - Class Four - A Bit more about functions and variables, how to use double return values
+- Class Five - understanding what is a struct and how to instantiate a struct,  as well as learn about function of struct
+- Class Six - What is a Array, Slice and Maps, how to use this structure
+
 
 ## Getting Started
 
@@ -34,6 +37,14 @@ Install the Go here is a link
 
 This is a fast learning about Go so it's necessary know the basic about anyone program language.
 
+### Contributing
+
+ UDEMY - The MIT License
+ Teacher - 
+
+
 ```bash
 # Example
 Go 2.24+
+
+````
