@@ -24,7 +24,9 @@ Highlight the main features of your project.
 - Class Three - How to declare a function and atrribute a value to a variable
 - Class Four - A Bit more about functions and variables, how to use double return values
 - Class Five - understanding what is a struct and how to instantiate a struct,  as well as learn about function of struct
-- Class Six - What is a Array, Slice and Maps, how to use this structure
+- Class Six - What is a Array, Slice and Maps, how to use this structure, work with arrays and slices in loop structure
+- Class Seven - organize the folders to package
+- Class Eight -
 
 
 ## Getting Started
@@ -45,6 +47,6 @@ This is a fast learning about Go so it's necessary know the basic about anyone p
 
 ```bash
 # Example
-Go 2.24+
+Go 1.24+
 
 ````
