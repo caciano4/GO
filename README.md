@@ -29,8 +29,10 @@ Highlight the main features of your project.
 - Class Eight - How to handle exceptions in this languages and deal a file
 - Class nine - how to utilize pointers to objects and functions
 - Class ten - A bit more about pointers in structures and functions
-- Class eleventh - Creating a simple monitor HTTP // This way I can expose a file of a especific directory
-
+- Class eleventh 
+  - Creating a simple monitor HTTP // This way I can expose a file of a especific directory
+  - Created a authentication of the shared Directory Service
+- Class Twelveth - 
 
 ## Getting Started
 
