@@ -28,6 +28,8 @@ Highlight the main features of your project.
 - Class Seven - organize the folders to package 
 - Class Eight - How to handle exceptions in this languages and deal a file
 - Class nine - how to utilize pointers to objects and functions
+- Class ten - A bit more about pointers in structures and functions
+- Class eleventh - Creating a simple monitor HTTP // This way I can expose a file of a especific directory
 
 
 ## Getting Started
