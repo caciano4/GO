@@ -25,8 +25,9 @@ Highlight the main features of your project.
 - Class Four - A Bit more about functions and variables, how to use double return values
 - Class Five - understanding what is a struct and how to instantiate a struct,  as well as learn about function of struct
 - Class Six - What is a Array, Slice and Maps, how to use this structure, work with arrays and slices in loop structure
-- Class Seven - organize the folders to package
-- Class Eight -
+- Class Seven - organize the folders to package 
+- Class Eight - How to handle exceptions in this languages and deal a file
+- Class nine - how to utilize pointers to objects and functions
 
 
 ## Getting Started
